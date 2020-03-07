@@ -1,7 +1,7 @@
-R
-O
-Y
-G
-B
-V
+Red
+Orange
+Yellow
+Green
+Blue
+Violet
 These are the colours of my rainbow.
